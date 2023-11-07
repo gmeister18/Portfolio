@@ -21,7 +21,7 @@ body .container{
 }
 
 body .container header{
-    background: url(peakpx.jpg) center / cover no-repeat;
+    background: url(minimalist.jpg) center / cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: space-between;

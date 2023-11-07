@@ -25,7 +25,7 @@ Guilherme possui as seguintes habilidades:
 
 ## Print da página
 
-![screeshot](print.jpg)
+![screeshot](print.png)
 
 ## Conclusão
 

@@ -13,7 +13,7 @@ Guilherme possui as seguintes habilidades:
 * Programação em Java, Python, JavaScript e TypeScript
 * Desenvolvimento web (HTML, CSS e JavaScript)
 * Desenvolvimento mobile (React Native e Flutter)
-* Banco de dados (MySQL e PostgreSQL)
+* Banco de dados (MySQL)
 * Testes de software (JUnit e Mockito)
 * Versionamento de código (Git e GitHub)
 

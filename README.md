@@ -15,7 +15,7 @@ Guilherme possui as seguintes habilidades:
 * Desenvolvimento mobile (React Native e Flutter)
 * Banco de dados (MySQL)
 * Testes de software (JUnit e Mockito)
-* Versionamento de código (Git e GitHub)
+* Versionamento de código (Git)
 
 ## Contatos
 

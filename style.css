@@ -26,7 +26,7 @@ body .container header{
     flex-direction: column;
     justify-content: space-between;
     min-height: 400px;
-    padding: 25px 55px 65px;
+    padding: 20px 55px 65px;
     border-radius: 16px;
 }
 
